@@ -1,8 +1,8 @@
 # Portfólio
 
-## O projeto se trata do meu portfólio pessoal, ele apresenta as principais aplicações desenvolvidas por mim até a atualidade. Foi desenvolvido com as seguintes tecnologias:
+## O projeto se trata do meu portfólio pessoal, ele apresenta as principais aplicações desenvolvidas por mim até a atualidade.
 
-### ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js), ![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logo=vuetify) e ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass).
+### Tecnologias utilizadas: ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js) ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js) ![Vuetify](https://img.shields.io/badge/-Vuetify-black?style=flat-square&logo=vuetify)  ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass).
 
 ## Build Setup
 
